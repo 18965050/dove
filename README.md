@@ -1,4 +1,4 @@
-由于保密的原因, dove源码不能再github以public的方式公布.
+由于保密的原因, dove源码不能在github以public的方式公布.
 
 如有兴趣, 可QQ或微信沟通. 账号即为我的github账号
 
